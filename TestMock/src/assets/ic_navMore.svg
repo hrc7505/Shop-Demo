@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="6px" viewBox="0 0 22 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ic_navMore</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Element-Sheet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1000.000000, -408.000000)" id="ic_navMore">
+            <g transform="translate(999.000000, 399.000000)">
+                <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,6.31896552 C13.2338556,6.31896552 14.25,5.2911413 14.25,4.03448276 C14.25,2.77782422 13.2338556,1.75 12,1.75 C10.7661444,1.75 9.75,2.77782422 9.75,4.03448276 C9.75,5.2911413 10.7661444,6.31896552 12,6.31896552 Z M12,9.71551724 C10.7661444,9.71551724 9.75,10.7433415 9.75,12 C9.75,13.2566585 10.7661444,14.2844828 12,14.2844828 C13.2338556,14.2844828 14.25,13.2566585 14.25,12 C14.25,10.7433415 13.2338556,9.71551724 12,9.71551724 Z M12,17.6810345 C10.7661444,17.6810345 9.75,18.7088587 9.75,19.9655172 C9.75,21.2221758 10.7661444,22.25 12,22.25 C13.2338556,22.25 14.25,21.2221758 14.25,19.9655172 C14.25,18.7088587 13.2338556,17.6810345 12,17.6810345 Z" id="Fill-198" stroke="#FFFFFF" stroke-width="1.5" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
