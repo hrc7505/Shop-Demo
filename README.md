@@ -4,7 +4,7 @@ Shop-Demo
 # To run this app follow below steps:
   1. Open terminal
   2. Go to project directory
-  3. Apply command "yarn add"
+  3. Apply command "yarn install"
   4. Apply command "cd ios"
   5. Apply command "pod install"
   
