@@ -17,3 +17,8 @@ Shop-Demo
   2. Wait until indexing and syncing of bundles
   3. Run project.
   
+# To run using react-native cli
+  1. 1. Open terminal
+  2. Go to project directory
+  3. To run ios build -> "react-native run-ios"
+  4. To run android build -> "react-native run-android"
