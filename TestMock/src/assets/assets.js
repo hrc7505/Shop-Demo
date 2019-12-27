@@ -1,0 +1,33 @@
+const assets = {
+    userIcon: require("./ic_user.png"),
+    closeIcon: require("./close.png"),
+    dropdownArrow: require("./dropdownArrow.png"),
+    threeTilesIconWhite: require("./ic_tileViewInactive.png"),
+    twoTilesIconBlue: require("./ic_tileViewActiveBlue.png"),
+    listIconWhite: require("./ic_listViewInactive.png"),
+    heart: require("./ic_Favorites.png"),
+    coupon: require("./ic_couponBlue.png"),
+    favourite: require("./ic_navFavorites.png"),
+    heartFilled: require("./ic_Favorites_filled.png"),
+    featured: require("./ic_navFeatured.png"),
+    categories: require("./ic_navCategories.png"),
+    more: require("./ic_navMore.png"),
+    // Coupon assets
+    cycleGear: require("./couponImages/cycle_gear.png"),
+    bookingCom: require("./couponImages/booking_com.png"),
+    chemicalGuys: require("./couponImages/chemical_guys.png"),
+    allPostersCom: require("./couponImages/all_posters_com.png"),
+    theAutoburnImports: require("./couponImages/the_autoburn_imports.png"),
+    oscard: require("./couponImages/oscard.png"),
+    fedEx: require("./couponImages/fedex.png"),
+    bird: require("./couponImages/bird.png"),
+    smallBird: require("./couponImages/small_bird.png"),
+    rolex: require("./couponImages/rolex.png"),
+    cat: require("./couponImages/cat.png"),
+    roundDot: require("./couponImages/round_dot.png"),
+    sprint: require("./couponImages/sprint.png"),
+    apec: require("./couponImages/apec.png"),
+    aPlan: require("./couponImages/a_plan.png"),
+};
+
+export default assets;
